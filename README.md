@@ -1,7 +1,7 @@
-##UdS NNIA Tutorials
+## UdS NNIA Tutorials
 Slides for Neural Networks Implementation and Application tutorials of Winter semester 2022 at University of Saarland. Adapted from the slides created by Vilém Zouhar and Noon Pokaratsiri Goldstein for the previous edition of this class.
 
-##Outline
+## Outline
 Schedule (links provided only to semi-finished materials):
 
 Introduction + Assignment 0
@@ -23,5 +23,5 @@ Handout version: ./build.sh 01-introduction handout
 Both: ./build.sh 01-introduction
 Make sure you have pandoc and texlive installed. Usually the following should suffice sudo apt install pandoc texlive-latex-base texlive-pictures texlive-latex-recommended. For Mac brew install pandoc and reopening terminal worked fine. You don't need to build the presentations if you want to contribute - editing the markdown is enough.
 
-##License
+## License
 Feel free to update, present and distribute on your own accord. In all cases, however, preserve the names of the previous contributors
