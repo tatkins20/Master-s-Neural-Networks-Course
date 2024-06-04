@@ -4,7 +4,7 @@ Slides for Neural Networks Implementation and Application tutorials of Winter se
 ## Outline
 Schedule (links provided only to semi-finished materials):
 
-[Introduction + Assignment 0](https://github.com/tatkins20/Masters-Neural-Networks-Course/blob/main/Neural_Networks/HW0_LA_Basics.ipynb)
+[Introduction + Assignment 0](https://github.com/tatkins20/Masters-Neural-Networks-Course/blob/main/Neural_Networks/HW0_LA_Basics.ipynb)  \\
 [Regression + Assignment 1,2](https://github.com/tatkins20/Masters-Neural-Networks-Course/blob/main/Neural_Networks/HW1_PCA.ipynb)
 [Neural Networks Hello World + Assignment 2,3](https://github.com/tatkins20/Masters-Neural-Networks-Course/blob/main/Neural_Networks/HW2_Regression.ipynb)
 [Optimization + Assignment 3,4](https://github.com/tatkins20/Masters-Neural-Networks-Course/blob/main/Neural_Networks/HW3_basic_NN.ipynb)
