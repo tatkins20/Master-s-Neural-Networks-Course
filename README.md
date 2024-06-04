@@ -4,16 +4,16 @@ Slides for Neural Networks Implementation and Application tutorials of Winter se
 ## Outline
 Schedule (links provided only to semi-finished materials):
 
-Introduction + Assignment 0
-Regression + Assignment 1,2
-Neural Networks Hello World + Assignment 2,3
-Optimization + Assignment 3,4
-Backpropagation + Assignment 4,5
-Regularization + Assignment 5,6
-Optimizers + Assignment 6,7
-CNN + Assignment 7,8
-RNN + Assignment 8,9
-Methodology, Representation + Assignment 9,10 (no content)
+[Introduction + Assignment 0](https://github.com/tatkins20/Masters-Neural-Networks-Course/blob/main/Neural_Networks/HW0_LA_Basics.ipynb)
+[Regression + Assignment 1,2](https://github.com/tatkins20/Masters-Neural-Networks-Course/blob/main/Neural_Networks/HW1_PCA.ipynb)
+[Neural Networks Hello World + Assignment 2,3](https://github.com/tatkins20/Masters-Neural-Networks-Course/blob/main/Neural_Networks/HW2_Regression.ipynb)
+[Optimization + Assignment 3,4](https://github.com/tatkins20/Masters-Neural-Networks-Course/blob/main/Neural_Networks/HW3_basic_NN.ipynb)
+[Backpropagation + Assignment 4,5](https://github.com/tatkins20/Masters-Neural-Networks-Course/blob/main/Neural_Networks/HW5_NN_implementation.ipynb)
+[Regularization + Assignment 5,6](https://github.com/tatkins20/Masters-Neural-Networks-Course/blob/main/Neural_Networks/HW6_regularization.ipynb)
+[Optimizers + Assignment 6,7](https://github.com/tatkins20/Masters-Neural-Networks-Course/blob/main/Neural_Networks/HW7_batching.ipynb)
+[CNN + Assignment 7,8](https://github.com/tatkins20/Masters-Neural-Networks-Course/blob/main/Neural_Networks/HW8_CNN.ipynb)
+[RNN + Assignment 8,9](https://github.com/tatkins20/Masters-Neural-Networks-Course/blob/main/Neural_Networks/HW9_RNN.ipynb)
+[Methodology, Representation + Assignment 9,10 (no content)](https://github.com/tatkins20/Masters-Neural-Networks-Course/blob/main/Neural_Networks/HW10_embeddings.ipynb)
 Contemporary NLP + Assignment 10 (no content)
 
 ## Contributing
